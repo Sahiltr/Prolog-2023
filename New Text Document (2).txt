@@ -1,0 +1,3 @@
+Sam is a boy
+sania is a girl
+define a rule if A likes to play cricket, then A is a Boy.
